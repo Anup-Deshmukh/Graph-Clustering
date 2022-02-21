@@ -11,7 +11,7 @@ The entire optimization routine (including gradient calculations) is implemented
 
 Dataset:
  - You can download the "JOHNSHOPKINS55" from https://networkrepository.com/socfb-JohnsHopkins55.php
-
+ - This dataset is a Facebook anonymized dataset on a particular day in September 2005
 
 Prerequisites:
 ```
